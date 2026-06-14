@@ -1,3 +1,5 @@
+
+
 Dyadic Nyman–Beurling Block Handoff for the Riemann Hypothesis
 
 Author: Karl Schultze
@@ -5,6 +7,17 @@ Version: 0.1
 Date: 2026-06-14
 Repository: [insert GitHub URL]
 DOI: [insert Zenodo DOI after archive]
+
+## License
+
+Unless otherwise stated:
+
+- Reports, documentation, explanatory text, figures, and data are licensed under CC BY 4.0.
+- Source code is licensed under the MIT License.
+
+Please cite:
+
+Karl Schultze, "Dyadic Nyman–Beurling Block Handoff for the Riemann Hypothesis," version 0.1, 2026-06-14.
 
 Status
 
